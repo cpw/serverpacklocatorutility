@@ -19,6 +19,8 @@ displayName="Server Pack Locator Utility mod" #mandatory
 credits="cpw" #optional
 # A text field displayed in the mod UI
 authors="cpw" #optional
+
+license="LGPL v3"
 # The description text for the mod (multi line!) (#mandatory)
 description='''
 Server Pack Locator Utility mod.
